@@ -1,4 +1,4 @@
-# 📱 Análise Exploratória: Tempo de Tela em Crianças
+# Machine Learning: Tempo de Tela para Crianças (K-Means)
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) sobre os hábitos de tempo de tela em crianças, investigando como diferentes fatores (idade, atividades, comportamento, entre outros) influenciam o uso de dispositivos eletrônicos. Além disso, utilizou-se o processo de Machine Learning com modelagem de clusters (K-Means) para segmentar crianças por padrões de uso de telas, com validação via Silhouette Score.
 
 🎯 Objetivo
